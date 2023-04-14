@@ -1,0 +1,21 @@
+c:\users\sesa\documents\visual studio 2013\Projects\Repeating\Repeating\bin\Debug\Repeating.exe.config
+c:\users\sesa\documents\visual studio 2013\Projects\Repeating\Repeating\bin\Debug\Repeating.exe
+c:\users\sesa\documents\visual studio 2013\Projects\Repeating\Repeating\bin\Debug\Repeating.pdb
+c:\users\sesa\documents\visual studio 2013\Projects\Repeating\Repeating\obj\Debug\Repeating.csprojResolveAssemblyReference.cache
+c:\users\sesa\documents\visual studio 2013\Projects\Repeating\Repeating\obj\Debug\Repeating.Form1.resources
+c:\users\sesa\documents\visual studio 2013\Projects\Repeating\Repeating\obj\Debug\Repeating.Properties.Resources.resources
+c:\users\sesa\documents\visual studio 2013\Projects\Repeating\Repeating\obj\Debug\Repeating.csproj.GenerateResource.Cache
+c:\users\sesa\documents\visual studio 2013\Projects\Repeating\Repeating\obj\Debug\Repeating.exe
+c:\users\sesa\documents\visual studio 2013\Projects\Repeating\Repeating\obj\Debug\Repeating.pdb
+C:\Users\Sesa\Documents\Arduino\TestRepeatingFromArduino\Repeating\Repeating\bin\Debug\Repeating.exe.config
+C:\Users\Sesa\Documents\Arduino\TestRepeatingFromArduino\Repeating\Repeating\obj\Debug\Repeating.exe
+C:\Users\Sesa\Documents\Arduino\TestRepeatingFromArduino\Repeating\Repeating\obj\Debug\Repeating.pdb
+C:\Users\Sesa\Documents\Arduino\TestRepeatingFromArduino\Repeating\Repeating\bin\Debug\Repeating.exe
+C:\Users\Sesa\Documents\Arduino\TestRepeatingFromArduino\Repeating\Repeating\bin\Debug\Repeating.pdb
+C:\Users\Sesa\Documents\Arduino\TestRepeatingFromArduino\Repeating\Repeating\obj\Debug\Repeating.csprojResolveAssemblyReference.cache
+C:\Users\Sesa\Documents\Arduino\TestRepeatingFromArduino\Repeating\Repeating\obj\Debug\Repeating.Form1.resources
+C:\Users\Sesa\Documents\Arduino\TestRepeatingFromArduino\Repeating\Repeating\obj\Debug\Repeating.Properties.Resources.resources
+C:\Users\Sesa\Documents\Arduino\TestRepeatingFromArduino\Repeating\Repeating\obj\Debug\Repeating.csproj.GenerateResource.Cache
+F:\All of Them After Curse Happened\All of Them After Curse Happened\TestRepeatingFromArduino\Repeating\Repeating\bin\Debug\Repeating.exe.config
+F:\All of Them After Curse Happened\All of Them After Curse Happened\TestRepeatingFromArduino\Repeating\Repeating\obj\Debug\Repeating.exe
+F:\All of Them After Curse Happened\All of Them After Curse Happened\TestRepeatingFromArduino\Repeating\Repeating\obj\Debug\Repeating.pdb

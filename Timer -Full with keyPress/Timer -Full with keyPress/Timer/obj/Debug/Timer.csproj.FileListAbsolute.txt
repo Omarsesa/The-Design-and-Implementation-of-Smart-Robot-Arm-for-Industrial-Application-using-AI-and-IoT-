@@ -1,0 +1,122 @@
+C:\Users\MeroSesa\Documents\Visual Studio 2013\Projects\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\MeroSesa\Documents\Visual Studio 2013\Projects\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\MeroSesa\Documents\Visual Studio 2013\Projects\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\MeroSesa\Documents\Visual Studio 2013\Projects\Timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\MeroSesa\Documents\Visual Studio 2013\Projects\Timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\MeroSesa\Documents\Visual Studio 2013\Projects\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\MeroSesa\Documents\Visual Studio 2013\Projects\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+C:\Users\MeroSesa\Documents\Visual Studio 2013\Projects\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\MeroSesa\Documents\Visual Studio 2013\Projects\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\MeroSesa\Desktop\timer\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\MeroSesa\Desktop\timer\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\MeroSesa\Desktop\timer\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\MeroSesa\Desktop\timer\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\MeroSesa\Desktop\timer\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\MeroSesa\Desktop\timer\Timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\MeroSesa\Desktop\timer\Timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\MeroSesa\Desktop\timer\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\MeroSesa\Desktop\timer\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+C:\Users\MeroSesa\Desktop\T1\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\MeroSesa\Desktop\T1\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\MeroSesa\Desktop\T1\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\MeroSesa\Desktop\T1\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\MeroSesa\Desktop\T1\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\MeroSesa\Desktop\T1\Timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\MeroSesa\Desktop\T1\Timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\MeroSesa\Desktop\T1\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\MeroSesa\Desktop\T1\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+C:\Users\MeroSesa\Desktop\T1\Timer - Copy\Timer\bin\Debug\Timer.exe.config
+C:\Users\MeroSesa\Desktop\T1\Timer - Copy\Timer\obj\Debug\Timer.exe
+C:\Users\MeroSesa\Desktop\T1\Timer - Copy\Timer\obj\Debug\Timer.pdb
+C:\Users\MeroSesa\Desktop\T1\Timer - Copy\Timer\bin\Debug\Timer.exe
+C:\Users\MeroSesa\Desktop\T1\Timer - Copy\Timer\bin\Debug\Timer.pdb
+C:\Users\MeroSesa\Desktop\T1\Timer - Copy\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\MeroSesa\Desktop\T1\Timer - Copy\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\MeroSesa\Desktop\T1\Timer - Copy\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\MeroSesa\Desktop\T1\Timer - Copy\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+C:\Users\MeroSesa\Desktop\T1\Timer - 1 timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\MeroSesa\Desktop\T1\Timer - 1 timer\Timer\obj\Debug\Timer.exe
+C:\Users\MeroSesa\Desktop\T1\Timer - 1 timer\Timer\obj\Debug\Timer.pdb
+C:\Users\MeroSesa\Desktop\T1\Timer - 1 timer\Timer\bin\Debug\Timer.exe
+C:\Users\MeroSesa\Desktop\T1\Timer - 1 timer\Timer\bin\Debug\Timer.pdb
+C:\Users\MeroSesa\Desktop\T1\Timer - 1 timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\MeroSesa\Desktop\T1\Timer - 1 timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\MeroSesa\Desktop\T1\Timer - 1 timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\MeroSesa\Desktop\T1\Timer - 1 timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+C:\Users\MeroSesa\Desktop\New folder (5)\Timer - 1 timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\MeroSesa\Desktop\New folder (5)\Timer - 1 timer\Timer\obj\Debug\Timer.exe
+C:\Users\MeroSesa\Desktop\New folder (5)\Timer - 1 timer\Timer\obj\Debug\Timer.pdb
+C:\Users\MeroSesa\Desktop\New folder (5)\Timer - 1 timer\Timer\bin\Debug\Timer.exe
+C:\Users\MeroSesa\Desktop\New folder (5)\Timer - 1 timer\Timer\bin\Debug\Timer.pdb
+C:\Users\MeroSesa\Desktop\New folder (5)\Timer - 1 timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\MeroSesa\Desktop\New folder (5)\Timer - 1 timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\MeroSesa\Desktop\New folder (5)\Timer - 1 timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\MeroSesa\Desktop\New folder (5)\Timer - 1 timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+C:\Users\MeroSesa\Desktop\work1\T1\Timer - 1 timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\MeroSesa\Desktop\work1\T1\Timer - 1 timer\Timer\obj\Debug\Timer.exe
+C:\Users\MeroSesa\Desktop\work1\T1\Timer - 1 timer\Timer\obj\Debug\Timer.pdb
+C:\Users\MeroSesa\Desktop\work1\T1\Timer - 1 timer\Timer\bin\Debug\Timer.exe
+C:\Users\MeroSesa\Desktop\work1\T1\Timer - 1 timer\Timer\bin\Debug\Timer.pdb
+C:\Users\MeroSesa\Desktop\work1\T1\Timer - 1 timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\MeroSesa\Desktop\work1\T1\Timer - 1 timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\MeroSesa\Desktop\work1\T1\Timer - 1 timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\MeroSesa\Desktop\work1\T1\Timer - 1 timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+C:\Users\Sesa\Desktop\work1\T1\Timer - 1 timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\Sesa\Desktop\work1\T1\Timer - 1 timer\Timer\obj\Debug\Timer.exe
+C:\Users\Sesa\Desktop\work1\T1\Timer - 1 timer\Timer\obj\Debug\Timer.pdb
+C:\Users\Sesa\Desktop\work1\T1\Timer - 1 timer\Timer\bin\Debug\Timer.exe
+C:\Users\Sesa\Desktop\work1\T1\Timer - 1 timer\Timer\bin\Debug\Timer.pdb
+C:\Users\Sesa\Desktop\work1\T1\Timer - 1 timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Sesa\Desktop\work1\T1\Timer - 1 timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\Sesa\Desktop\work1\T1\Timer - 1 timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\Sesa\Desktop\work1\T1\Timer - 1 timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+C:\Users\The MaTRix\Desktop\T1\Timer - 1 timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\The MaTRix\Desktop\T1\Timer - 1 timer\Timer\obj\Debug\Timer.exe
+C:\Users\The MaTRix\Desktop\T1\Timer - 1 timer\Timer\obj\Debug\Timer.pdb
+C:\Users\The MaTRix\Desktop\T1\Timer - 1 timer\Timer\bin\Debug\Timer.exe
+C:\Users\The MaTRix\Desktop\T1\Timer - 1 timer\Timer\bin\Debug\Timer.pdb
+C:\Users\The MaTRix\Desktop\T1\Timer - 1 timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\The MaTRix\Desktop\T1\Timer - 1 timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\The MaTRix\Desktop\T1\Timer - 1 timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\The MaTRix\Desktop\T1\Timer - 1 timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+C:\Users\The MaTRix\Desktop\Timer - 1 timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\The MaTRix\Desktop\Timer - 1 timer\Timer\obj\Debug\Timer.exe
+C:\Users\The MaTRix\Desktop\Timer - 1 timer\Timer\obj\Debug\Timer.pdb
+C:\Users\The MaTRix\Desktop\Timer - 1 timer\Timer\bin\Debug\Timer.exe
+C:\Users\The MaTRix\Desktop\Timer - 1 timer\Timer\bin\Debug\Timer.pdb
+C:\Users\The MaTRix\Desktop\Timer - 1 timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\The MaTRix\Desktop\Timer - 1 timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\The MaTRix\Desktop\Timer - 1 timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\The MaTRix\Desktop\Timer - 1 timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer\bin\Debug\Timer.exe.config
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.exe
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.pdb
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer\bin\Debug\Timer.exe
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer\bin\Debug\Timer.pdb
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\bin\Debug\Timer.exe.config
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.exe
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.pdb
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\bin\Debug\Timer.exe
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\bin\Debug\Timer.pdb
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.Form2.resources
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress version 5\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\bin\Debug\Timer.exe.config
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress version 5\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.exe
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress version 5\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.pdb
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress version 5\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\bin\Debug\Timer.exe
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress version 5\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\bin\Debug\Timer.pdb
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress version 5\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress version 5\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress version 5\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.Form2.resources
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress version 5\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\Sesa\Desktop\work1\timer\Timer -Full with keyPress version 5\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+F:\All of Them After Curse Happened\Follow and reset + arduino read\Follow and reset + arduino read\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\bin\Debug\Timer.exe.config
+F:\All of Them After Curse Happened\Follow and reset + arduino read\Follow and reset + arduino read\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.exe
+F:\All of Them After Curse Happened\Follow and reset + arduino read\Follow and reset + arduino read\Timer -Full with keyPress\Timer -Full with keyPress\Timer -Full with keyPress\Timer\obj\Debug\Timer.pdb
